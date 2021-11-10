@@ -1,5 +1,8 @@
 
 ## Warm Hearts Kelowna
+<a href="pdfs/About.pdf" target="_blank">
+<button type="button">About Warm Hearts</button>
+  
 <a href="pdfs/Warm Hearts Holiday Charity.pdf" target="_blank">
 <button type="button">Who We Support</button>
   
@@ -11,8 +14,5 @@ Warm Hearts Kelowna is a pop-up seasonal charity designed to offer extra support
 Read more about the families and general organizations you can direct your donations to by clicking the "Who We Support" button. 
 
 When you're ready, complete our google form by clicking [here](https://forms.gle/Dno15Jz4uVionoqx7) to let us know who you will be supporting this season. 
-
-<img src="imgs/logo.png" alt="Warm Hearts Kelowna" width="75"/> 
-
 
  
