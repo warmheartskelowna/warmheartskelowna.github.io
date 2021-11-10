@@ -1,6 +1,6 @@
 
 ## Warm Hearts Kelowna
-<a href="pdfs/About.pdf" target="_blank">
+<a href="pdfs/about.pdf" target="_blank">
 <button type="button">About Warm Hearts</button>
   
 <a href="pdfs/Warm Hearts Holiday Charity.pdf" target="_blank">
