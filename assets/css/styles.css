@@ -1,7 +1,8 @@
 ---
 ---
 
-@import "";
+@import "{{ site.theme }}";
+
 background-color: #effaff;
 
 .button {
@@ -15,4 +16,4 @@ background-color: #effaff;
   margin: 4px 2px;
   cursor: pointer;
   border-radius: 16px;
-}
+};
