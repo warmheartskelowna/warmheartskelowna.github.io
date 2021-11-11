@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="assests/css/styles.css">
 
 ## Warm Hearts Kelowna
 <a href="pdfs/about.pdf" target="_blank">
