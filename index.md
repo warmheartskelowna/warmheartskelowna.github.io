@@ -6,10 +6,9 @@
 <button type="button">Who We Support</button>
 <a href="pdfs/WH Gift Card Suggestions.pdf" target="_blank">
 <button type="button">Wish Lists</button>
-<!-->
-<a href="pdfs/WH Gift Card Suggestions.pdf" target="_blank">
+<a href="pdfs/events.pdf" target="_blank">
 <button type="button">Events</button>
--->
+
 
 Warm Hearts Kelowna is a pop-up seasonal charity designed to offer extra support as the year comes to a close. Gifts will be hand delivered to the families or organizations by **Friday, December 17th, 2021.**
 
