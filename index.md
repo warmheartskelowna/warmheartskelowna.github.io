@@ -7,7 +7,7 @@
 <a href="pdfs/WH Gift Card Suggestions.pdf" target="_blank">
 <button type="button">Wish Lists</button>
 <a href="events.md" target="_blank">
-<button type="button">Events</button>
+<button type="button">[Events](events.md)</button>
 
 
 Warm Hearts Kelowna is a pop-up seasonal charity designed to offer extra support as the year comes to a close. Gifts must be dropped off by **Friday, December 17th, 2021** in order for them to be hand delivered to the families or organizations in time. If more convenient, e-transfers made to warmheartskelowna@gmail.com will also be accepted - please use 'kelowna' as the password and include who you'd like to direct your donation to in the message box.
