@@ -6,7 +6,7 @@
 <button type="button">Who We Support</button>
 <a href="pdfs/WH Gift Card Suggestions.pdf" target="_blank">
 <button type="button">Wish Lists</button>
-<a href="pdfs/events.pdf" target="_blank">
+<a href="events.md" target="_blank">
 <button type="button">Events</button>
 
 
