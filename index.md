@@ -1,12 +1,9 @@
-## Warm Hearts Kelowna
-
 <a href="pdfs/about.pdf" target="_blank">
 <button type="button">About Warm Hearts</button>
 <a href="pdfs/Warm Hearts Holiday Charity.pdf" target="_blank">
 <button type="button">Who We Support</button>
 <a href="pdfs/WH Gift Card Suggestions.pdf" target="_blank">
 <button type="button">Wish Lists</button>
-<a href="events.md" target="_blank">
 <button type="button">[Events](events.md)</button>
 
 
