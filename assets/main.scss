@@ -1,6 +1,13 @@
 ---
 ---
 
+@import "minima";
+
+body {
+  background-color: #effaff;
+  font: avenir;
+};
+
 a.button {
   background-color: #ddd;
   border: none;
@@ -12,11 +19,4 @@ a.button {
   margin: 4px 2px;
   cursor: pointer;
   border-radius: 16px;
-};
-
-@import "minima";
-
-body {
-  background-color: #effaff;
-  font: avenir;
 };
