@@ -1,7 +1,3 @@
-<head>
-  <link rel=“stylesheet” href=“assets/css/style.scss”>
-</head>
-
 <a href="pdfs/about.pdf" target="_blank">
 <button type="button">About Warm Hearts</button>
 <a href="pdfs/Warm Hearts Holiday Charity.pdf" target="_blank">
