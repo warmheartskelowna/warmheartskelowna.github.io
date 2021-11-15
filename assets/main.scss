@@ -1,6 +1,13 @@
 ---
 ---
 
+@import "minima";
+
+h1, h2, h3, h4, h5, body {
+  background-color: #effaff;
+  font: "avenir";
+};
+
 .button {
   background-color: #ddd;
   border: none;
@@ -12,12 +19,5 @@
   margin: 4px 2px;
   cursor: pointer;
   border-radius: 16px;
-};
-
-@import "minima";
-
-h1, h2, h3, h4, h5, body {
-  background-color: #effaff;
-  font: "avenir";
 };
 
