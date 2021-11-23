@@ -9,6 +9,8 @@
 #### Christmas Cocktails at Jack's. 
 
 <br>
+<br>
+<br>
 
  <a hrefs="https://github.com/warmheartskelowna/warmheartskelowna.github.io/blob/main/imgs/SlowFlow.png">
 <img style="float: left; margin: 0px 15px 15px 0px;" src="imgs/SlowFlow.png" alt="Slow Flow Yoga"
@@ -23,6 +25,8 @@
 #### **Monday, December 13th (7:00 - 8:00 PM)** - To Be Announced.
 -->
 
+<br>
+<br>
 <br>
 
 More events coming soon!
