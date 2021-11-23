@@ -3,7 +3,7 @@
 <div class="event">
 	<a hrefs="https://github.com/warmheartskelowna/warmheartskelowna.github.io/blob/main/imgs/Jacks.png">
 	<img style="float: left; margin: 0px 15px 15px 0px;" src="imgs/Jacks.png" alt="Christmas Cocktails"
-		title="Christmas Cocktails at Jacks" width="300" height="100" /> 
+		title="Christmas Cocktails at Jacks" width="300" height="150" /> 
 		</a>
 
 	<h3> Wednesday, December 1st (all night!)</h3>
@@ -21,7 +21,7 @@
 <div class="event">
  <a hrefs="https://github.com/warmheartskelowna/warmheartskelowna.github.io/blob/main/imgs/SlowFlow.png">
 <img style="float: left; margin: 0px 15px 15px 0px;" src="imgs/SlowFlow.png" alt="Slow Flow Yoga"
-	title="Slow Flow Yoga Class with Josee Kreese" width="300" height="100" />
+	title="Slow Flow Yoga Class with Josee Kreese" width="300" height="150" />
 	</a>
    
 	<h3> Wednesday, December 8th (6:00 - 7:00 PM) </h3>
