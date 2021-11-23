@@ -11,6 +11,10 @@
 
 </div>
 
+<br>
+<br>
+<br>
+
 <div class="event">
  <a hrefs="https://github.com/warmheartskelowna/warmheartskelowna.github.io/blob/main/imgs/SlowFlow.png">
 <img style="float: left; margin: 0px 15px 15px 0px;" src="imgs/SlowFlow.png" alt="Slow Flow Yoga"
@@ -19,7 +23,7 @@
    
 	<h3> Wednesday, December 8th (6:00 - 7:00 PM) </h3>
 	<h4> Slow Flow Yoga with Josee Kreese.</h4> 
-		<p> <ahrefs="https://www.eventbrite.ca/e/copy-of-slow-flow-yoga-with-josee-tickets-216077612957">Purchase tickets online.</a> </p>
+		<ahrefs="https://www.eventbrite.ca/e/copy-of-slow-flow-yoga-with-josee-tickets-216077612957">Purchase tickets online.</a>
 
  
 <!-- #### **Monday, December 13th (6:00 - 7:00 PM)** - To Be Announced.
