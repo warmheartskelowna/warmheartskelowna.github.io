@@ -25,9 +25,11 @@
 	<br>
 	<h3> Wednesday, December 8th (6:00 - 7:00 PM) </h3>
 	<h4> Slow Flow Yoga with Josee Kreese.</h4> 
-	<p> <a hrefs="https://www.eventbrite.ca/e/copy-of-slow-flow-yoga-with-josee-tickets-216077612957" target="_blank">Purchase tickets online.</a> </p>
+	<!-- <a hrefs="https://www.eventbrite.ca/e/copy-of-slow-flow-yoga-with-josee-tickets-216077612957" target="_blank">Purchase tickets online.</a> -->
 
 </div>
+
+[Purchase tickets here.](https://www.eventbrite.ca/e/copy-of-slow-flow-yoga-with-josee-tickets-216077612957)
 
 <br>
 <br>
