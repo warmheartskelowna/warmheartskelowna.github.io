@@ -5,6 +5,7 @@
 <a href="pdfs/WH Gift Card Suggestions.pdf" target="_blank">
 <button type="button">Wish Lists</button>
 <button type="button">[Events](events.md)</button>
+<button type="button">[Donate!](https://www.eventbrite.ca/e/warm-hearts-donations-tickets-216087512567)</button>
 
 
 Warm Hearts Kelowna is a pop-up seasonal charity designed to offer extra support as the year comes to a close. This year we're supporting **Kelowna Women's Shelter** and **Kelowna General Hospital - Pediatric Ward**. Read more about the families and general organizations you can direct your donations to by clicking the "Who We Support" button. 
