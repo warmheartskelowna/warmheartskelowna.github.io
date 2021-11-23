@@ -6,8 +6,8 @@
 		title="Christmas Cocktails at Jacks" width="300" height="300" /> 
 		</a>
 
-### **Wednesday, December 1st (all night!)**
-#### Christmas Cocktails at Jack's. 
+	<h3> Wednesday, December 1st (all night!)</h3>
+	<h4> Christmas Cocktails at Jack's. </h4>
 
 </div>
 
@@ -17,8 +17,9 @@
 	title="Slow Flow Yoga Class with Josee Kreese" width="300" height="300" />
 	</a>
    
-### **Wednesday, December 8th (6:00 - 7:00 PM)** 
-#### Slow Flow Yoga with Josee Kreese. [Purchase tickets online.](https://www.eventbrite.ca/e/copy-of-slow-flow-yoga-with-josee-tickets-216077612957)
+	<h3> Wednesday, December 8th (6:00 - 7:00 PM) </h3>
+	<h4> Slow Flow Yoga with Josee Kreese.</h4> 
+		<p> <ahrefs="https://www.eventbrite.ca/e/copy-of-slow-flow-yoga-with-josee-tickets-216077612957">Purchase tickets online.</a> </p>
 
  
 <!-- #### **Monday, December 13th (6:00 - 7:00 PM)** - To Be Announced.
