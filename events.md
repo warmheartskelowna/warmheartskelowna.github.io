@@ -3,7 +3,7 @@
 <div class="event">
 	<a hrefs="https://github.com/warmheartskelowna/warmheartskelowna.github.io/blob/main/imgs/Jacks.png" target="_blank">
 	<img style="float: left; margin: 0px 15px 15px 0px;" src="imgs/Jacks.png" alt="Christmas Cocktails"
-		title="Christmas Cocktails at Jacks" width="300" height="150" /> 
+	     title="Christmas Cocktails at Jacks" width="300" height="150" /> </a>
 		
 	<br>
 	<h3> Wednesday, December 1st (all night!)</h3>
