@@ -1,6 +1,4 @@
 <button type="button">[Donate!](https://www.eventbrite.ca/e/warm-hearts-donations-tickets-216087512567)</button>
-<a href="pdfs/about.pdf" target="_blank">
-<button type="button">About Warm Hearts</button>
 <a href="pdfs/Warm Hearts Holiday Charity.pdf" target="_blank">
 <button type="button">Who We Support</button>
 <a href="pdfs/WH Gift Card Suggestions.pdf" target="_blank">
