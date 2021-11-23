@@ -29,7 +29,7 @@
 
 </div>
 
-[Purchase tickets here.](https://www.eventbrite.ca/e/copy-of-slow-flow-yoga-with-josee-tickets-216077612957)
+[Purchase tickets here.](https://www.eventbrite.ca/e/slow-flow-yoga-with-josee-tickets-216055978247)
 
 <br>
 <br>
