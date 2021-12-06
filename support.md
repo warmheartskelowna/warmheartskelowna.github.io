@@ -34,7 +34,7 @@
 
 <div class="gallery">
   <div class="family-card">
-    <img src="imgs/Family D.png" alt="Alps">
+    <img src="imgs/Family D.png" alt="Family D" width="600" height="400">
     <div class="desc">
       <p>Relocated to Kelowna for an undetermined amount of time to give birth to premature intrauterine growth restriction baby due mid-January.</p>
     </div>
