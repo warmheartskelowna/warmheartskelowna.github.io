@@ -1,3 +1,5 @@
+ <h4> In addition to supporting 22 women residing at Kelowna Women's Shelter and the Pediatrics Ward at Kelowna General Hospital (KGH), we are also offering support to 6 families in the local community referred to us by KGH and social workers. </h4>
+ 
  <div class="row">
     <div class="column">
       
