@@ -1,5 +1,8 @@
+ <button type="button">[Gift Suggestions](pdfs/WH Gift Card Suggestions.pdf)</button>
+ 
  <h4> In addition to supporting 22 women residing at Kelowna Women's Shelter and the Pediatrics Ward at Kelowna General Hospital (KGH), we are also offering support to 6 families in the local community referred to us by KGH and social workers. </h4>
- <h5> Hover over the family name to read more about their situation, click on their wishlist to zoom-in. Thank you! </h5>
+ <h5> Hover over the family name to read more about their situation, click on their wishlist to zoom-in. Thank you for your interest in helping! </h5>
+ 
  <div class="row">
     <div class="column">
      <div class="container">
