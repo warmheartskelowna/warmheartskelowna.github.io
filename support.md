@@ -1,5 +1,5 @@
   <div class="container">
-    <img src="imgs/Family A.png" alt="Family A" class="image" style="width=30%">
+    <img src="imgs/Family A.png" alt="Family A" class="image" style="width:30%">
     <div class="overlay">
       <div class="text">Son experiences ongoing health issues given his disability. 
         Parents need to provide 24 hour care to their son as he cannot attend school full-time. 
@@ -11,9 +11,7 @@
 <div class="container">
     <img src="imgs/Family B.png" alt="Family B" class="image">
     <div class="overlay">
-      <div class="text">Father is on life-sustaining treatment and on government assistance due to inability to work; more than 75% of his income goes to rent. 
-      He has a close relationship to his daughter, in the midst of a serious health crisis she gives him reason to persevere. Father has very little
-      residual income to provide Christmas gifts for his daughter or supply himself with sufficient winter clothing.</div>
+      <div class="text"><div class="button">More</div></div>
     </div>
    </div>
 
