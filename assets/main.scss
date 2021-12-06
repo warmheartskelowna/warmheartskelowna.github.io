@@ -47,7 +47,7 @@ w3-center {
   text-align:center;
 };
 
-container {
+.container {
   position: relative;
   width: 50%;
 };
@@ -58,7 +58,7 @@ image {
   height: auto;
 };
 
-overlay {
+.overlay {
   position: absolute;
   top: 0;
   bottom: 0;
@@ -71,11 +71,11 @@ overlay {
   background-color: #008CBA;
 };
 
-container:hover overlay {
+.container:hover .overlay {
   opacity: 1;
 };
 
-text {
+.text {
   color: white;
   font-size: 20px;
   position: absolute;
