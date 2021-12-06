@@ -18,7 +18,7 @@
 		<img src="imgs/SlowFlow.png" alt="Slow Flow Yoga" class="image">
 	</a>
 	<div class="overlay">
-			<div class="text"> Wednesday, December 8th (6:00 - 7:00 PM) <br> Slow Flow Yoga with Josee Kreese. </div>
+			<div> Wednesday, December 8th (6:00 - 7:00 PM) <br> Slow Flow Yoga with Josee Kreese. </div>
 	  </div>
 	</div>
    </div>
