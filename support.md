@@ -16,6 +16,7 @@
      <div class="container">
       <a href="imgs/Family A Wishes.png">
        <img src="imgs/Family A Wishes.png" alt="Family A Wishes" class="image">
+      </a>
       </div>
    </div>
  </div>
@@ -34,6 +35,7 @@
      <div class="container">
       <a href="imgs/Family B Wishes.png">
        <img src="imgs/Family B Wishes.png" alt="Family B Wishes" class="image">
+      </a>
       </div>
    </div>
 </div> 
@@ -51,6 +53,7 @@
      <div class="container">
       <a href="imgs/Family C Wishes.png">
        <img src="imgs/Family C Wishes.png" alt="Family C Wishes" class="image">
+      </a>
       </div>
    </div>
 </div>
