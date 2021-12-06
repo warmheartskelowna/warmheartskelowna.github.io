@@ -59,7 +59,7 @@ w3-center {
 };
 
 .overlay {
-  position: absolute;
+  position: relative;
   top: 0;
   bottom: 0;
   left: 0;
@@ -76,7 +76,7 @@ w3-center {
 };
 
 .text {
-  color: white;
+  color: black;
   font-size: 4px;
   position: relative;
   text-align: center;
