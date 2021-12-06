@@ -21,8 +21,9 @@
      </div>
     </div>
  </div>
- 
+</div> 
 
+<div class="row">
 <div class="column">
    <div class="container">
        <img src="imgs/Family C.png" alt="Family C" class="image">
@@ -42,8 +43,9 @@
        </div>
      </div>
   </div>
- 
- 
+ </div>
+
+<div class="row">
 <div class="column">
    <div class="container">
      <img src="imgs/Family E.png" alt="Family E" class="image">
