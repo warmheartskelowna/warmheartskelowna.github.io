@@ -10,33 +10,33 @@
 </div>
 
 
-<div class="gallery">
+<div class="container">
   <div class="family-card">
-    <img src="imgs/Family B.png" alt="Alps">
-    <div class="desc">
-      <p>Father is on life-sustaining treatment and on government assistance due to inability to work; more than 75% of his income goes to rent. 
+    <img src="imgs/Family B.png" alt="Family B" class="image">
+    <div class="overlay">
+      <div class="text">Father is on life-sustaining treatment and on government assistance due to inability to work; more than 75% of his income goes to rent. 
       He has a close relationship to his daughter, in the midst of a serious health crisis she gives him reason to persevere. Father has very little
-      residual income to provide Christmas gifts for his daughter or supply himself with sufficient winter clothing.</p>
+      residual income to provide Christmas gifts for his daughter or supply himself with sufficient winter clothing.</div>
     </div>
    </div>
 </div>
 
 
-<div class="gallery">
+<div class="container">
   <div class="family-card">
-    <img src="imgs/Family C.png" alt="Alps">
-    <div class="desc">
-      <p>Single mother supporting her 5 children, all under the ages of 14. Abusive father was removed from the home.</p>
+    <img src="imgs/Family C.png" alt="Family C" class="image">
+    <div class="overlay">
+      <div class="text">Single mother supporting her 5 children, all under the ages of 14. Abusive father was removed from the home.</div>
     </div>
   </div>
 </div>
 
 
-<div class="gallery">
+<div class="container">
   <div class="family-card">
-    <img src="imgs/Family D.png" alt="Family D">
-    <div class="desc">
-      <p>Relocated to Kelowna for an undetermined amount of time to give birth to premature intrauterine growth restriction baby due mid-January.</p>
+    <img src="imgs/Family D.png" alt="Family D" class="image">
+    <div class="overlay">
+      <div class="text">Relocated to Kelowna for an undetermined amount of time to give birth to premature intrauterine growth restriction baby due mid-January.</div>
     </div>
   </div>
 </div>
