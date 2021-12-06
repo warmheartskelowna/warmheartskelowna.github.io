@@ -1,5 +1,5 @@
 <button type="button">[Donate!](https://www.eventbrite.ca/e/warm-hearts-donations-tickets-216087512567)</button>
-<button type="button">[Who We Support](pdfs/Warm Hearts Holiday Charity.pdf)</button>
+<button type="button">[Who We Support](support.md)</button>
 <button type="button">[Wish Lists](pdfs/WH Gift Card Suggestions.pdf)</button>
 <button type="button">[Events](events.md)</button>
 
