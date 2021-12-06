@@ -2,7 +2,6 @@
  
  <div class="row">
     <div class="column">
-      
      <div class="container">
        <img src="imgs/Family A.png" alt="Family A" class="image">
        <div class="overlay">
@@ -53,8 +52,7 @@
      </div>
    </div>
  </div>      
- </div>
- 
+
 <div class="column">
    <div class="container">
        <img src="imgs/Family F.png" alt="Family F" class="image">
