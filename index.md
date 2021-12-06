@@ -2,7 +2,7 @@
 <button type="button">[Who We Support](support.md)</button>
 <button type="button">[Events](events.md)</button>
 
-Warm Hearts Kelowna is a pop-up seasonal non-profit designed to offer extra support as the year comes to a close. Read more about the families and general organizations you can direct your donations to by clicking the "Who We Support" button. 
+Warm Hearts Kelowna is a pop-up seasonal non-profit designed to offer extra support as the year comes to a close. Read more about the families and general organizations you can direct your donations to by clicking "Who We Support". 
 
 
 
