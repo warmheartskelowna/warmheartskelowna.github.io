@@ -3,7 +3,7 @@
 <button type="button">[Donate!](https://www.eventbrite.ca/e/warm-hearts-donations-tickets-216087512567)</button>
  
  <h4> In addition to supporting 22 women residing at Kelowna Women's Shelter and the Pediatrics Ward at Kelowna General Hospital (KGH), we are also offering support to 6 families in the local community referred to us by KGH and social workers. </h4>
- <h5> Hover over the family name to read more about their situation, click on their wishlist to zoom-in. </5>
+ <h5> Hover over the family name to read more about their situation, click on their wishlist to zoom-in.
  <br>
  <br>
  Gifts must be dropped off by <strong>Friday, December 17th, 2021 </strong> in order for them to be hand delivered to the families and organizations in time. 
