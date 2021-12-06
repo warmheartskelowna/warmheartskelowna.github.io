@@ -11,22 +11,8 @@
          Parents' ability to work is impacted and they struggle to meet financial means to keep their household afloat.</div>
       </div>
    </div>
-
-   <div class="container">
-       <img src="imgs/Family C.png" alt="Family C" class="image">
-       <div class="overlay">
-         <div class="text">Single mother supporting her 5 children, all under the ages of 14. Abusive father was removed from the home.</div>
-       </div>
-   </div>
-
-   <div class="container">
-     <img src="imgs/Family E.png" alt="Family E" class="image">
-     <div class="overlay">
-       <div class="text">Family home has burned down, the family is starting over. They've relocated to Kelowna to deliver their premature baby.</div>
-     </div>
-   </div>
-      
  </div>
+ 
   
  <div class="column">
    <div class="container">
@@ -35,8 +21,20 @@
        <div class="text">This Family is being taken care of :) </div>
      </div>
     </div>
+ </div>
+ 
 
-
+<div class="column">
+   <div class="container">
+       <img src="imgs/Family C.png" alt="Family C" class="image">
+       <div class="overlay">
+         <div class="text">Single mother supporting her 5 children, all under the ages of 14. Abusive father was removed from the home.</div>
+       </div>
+   </div>
+</div>
+ 
+ 
+ <div class="column">
    <div class="container">
        <img src="imgs/Family D.png" alt="Family D" class="image">
        <div class="overlay">
@@ -44,8 +42,20 @@
           intrauterine growth restriction baby due mid-January. </div>
        </div>
      </div>
-  
-  
+  </div>
+ 
+ 
+<div class="column">
+   <div class="container">
+     <img src="imgs/Family E.png" alt="Family E" class="image">
+     <div class="overlay">
+       <div class="text">Family home has burned down, the family is starting over. They've relocated to Kelowna to deliver their premature baby.</div>
+     </div>
+   </div>
+ </div>      
+ </div>
+ 
+<div class="column">
    <div class="container">
        <img src="imgs/Family F.png" alt="Family F" class="image">
        <div class="overlay">
