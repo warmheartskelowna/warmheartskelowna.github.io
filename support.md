@@ -33,11 +33,9 @@
 
 
 <div class="container">
-  <div class="family-card">
     <img src="imgs/Family D.png" alt="Family D" class="image">
     <div class="overlay">
-      <div class="text">Relocated to Kelowna for an undetermined amount of time to give birth to premature intrauterine growth restriction baby due mid-January.</div>
-    </div>
+      <div class="text">Relocated to Kelowna for an undetermined amount of time to give birth to premature intrauterine growth restriction baby due mid-January </div>
   </div>
 </div>
 
@@ -45,7 +43,7 @@
 <div class="container">
   <img src="imgs/Family E.png" alt="Family E" class="image">
   <div class="overlay">
-    <div class="text">Hello World</div>
+    <div class="text">Family home has burned down, the family is starting over. They've relocated to Kelowna to deliver their premature baby.</div>
   </div>
 </div>
 
