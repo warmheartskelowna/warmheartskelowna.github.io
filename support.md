@@ -128,3 +128,6 @@
       </div>
    </div>
 </div>
+
+  
+**Would you like to host a fundraiser instead? [Let us know!](mailto:warmheartskelowna@gmail.com)**
