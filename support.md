@@ -12,7 +12,14 @@
    </div>
  </div>
  
-  
+     <div class="column">
+     <div class="container">
+       <img src="imgs/Family A Wishes.png" alt="Family A Wishes" class="image">
+      </div>
+   </div>
+ </div>
+ 
+<div class="row">
  <div class="column">
    <div class="container">
      <img src="imgs/Family B.png" alt="Family B" class="image">
@@ -32,8 +39,9 @@
        </div>
    </div>
 </div>
+  </div>
  
- 
+<div class="row">
  <div class="column">
    <div class="container">
        <img src="imgs/Family D.png" alt="Family D" class="image">
@@ -54,7 +62,9 @@
      </div>
    </div>
  </div>      
-
+ </div>
+ 
+<div class="row">
 <div class="column">
    <div class="container">
        <img src="imgs/Family F.png" alt="Family F" class="image">
