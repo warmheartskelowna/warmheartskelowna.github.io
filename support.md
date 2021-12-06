@@ -39,7 +39,16 @@
        <img src="imgs/Family D.png" alt="Family D" class="image">
        <div class="overlay">
          <div class="text">Relocated to Kelowna for an undetermined amount of time to give birth to premature 
-          intrauterine growth restriction baby due mid-January </div>
+          intrauterine growth restriction baby due mid-January. </div>
+       </div>
+     </div>
+  
+  
+   <div class="container">
+       <img src="imgs/Family F.png" alt="Family F" class="image">
+       <div class="overlay">
+         <div class="text">Mom and her daughter are currently homeless and couchsurfing. Daughter has type 1 diabetes and they have been having
+        to access the food bank, which does not provide the appropriate food for the diet that she requires.</div>
        </div>
      </div>
 
