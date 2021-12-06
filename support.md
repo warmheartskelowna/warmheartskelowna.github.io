@@ -14,6 +14,7 @@
  
      <div class="column">
      <div class="container">
+      <a href="imgs/Family A Wishes.png">
        <img src="imgs/Family A Wishes.png" alt="Family A Wishes" class="image">
       </div>
    </div>
@@ -28,6 +29,13 @@
      </div>
     </div>
  </div>
+ 
+  <div class="column">
+     <div class="container">
+      <a href="imgs/Family B Wishes.png">
+       <img src="imgs/Family B Wishes.png" alt="Family B Wishes" class="image">
+      </div>
+   </div>
 </div> 
 
 <div class="row">
@@ -38,8 +46,14 @@
          <div class="text">Single mother supporting her 5 children, all under the ages of 14. Abusive father was removed from the home.</div>
        </div>
    </div>
-</div>
   </div>
+  <div class="column">
+     <div class="container">
+      <a href="imgs/Family C Wishes.png">
+       <img src="imgs/Family C Wishes.png" alt="Family C Wishes" class="image">
+      </div>
+   </div>
+</div>
  
 <div class="row">
  <div class="column">
