@@ -33,7 +33,7 @@
  
   <div class="column">
      <div class="container">
-      <a href="imgs/Family B Wishes.png">
+      <a href="imgs/Family B Dad Wishes.png">
        <img src="imgs/Family B Dad Wishes.png" alt="Family B Wishes" class="image">
       </a>
       </div>
