@@ -1,5 +1,5 @@
   <div class="container">
-    <img src="imgs/Family A.png" alt="Family A" class="image">
+    <img src="imgs/Family A.png" alt="Family A" class="image" style="width=30%">
     <div class="overlay">
       <div class="text">Son experiences ongoing health issues given his disability. 
         Parents need to provide 24 hour care to their son as he cannot attend school full-time. 
