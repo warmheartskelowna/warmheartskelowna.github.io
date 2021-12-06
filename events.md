@@ -12,8 +12,8 @@
     </div>
 </div>
 
-<div class="container">
-  <div class="column">
+<div class="column">
+  <div class="container">
  	<a hrefs="https://www.eventbrite.ca/e/slow-flow-yoga-with-josee-tickets-216055978247" target="_blank">
 		<img src="imgs/SlowFlow.png" alt="Slow Flow Yoga" class="image">
 	</a>
