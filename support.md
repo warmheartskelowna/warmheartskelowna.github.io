@@ -1,17 +1,15 @@
-<div class="w3-container">
-
-  <div class="family-card" style="width:50%">
+  <div class="container">
     <img src="imgs/Family A.png" alt="Family A" style="width:100%">
-    <div class="w3-container w3-center">
-      <p>Son experiences ongoing health issues given his disability. Parents need to provide 24 hour care to their son as he cannot attend school full-time. 
-      Parents' ability to work is impacted and they struggle to meet financial means to keep their household afloat.</p>
+    <div class="overlay">
+      <div class="text">Son experiences ongoing health issues given his disability. 
+        Parents need to provide 24 hour care to their son as he cannot attend school full-time. 
+      Parents' ability to work is impacted and they struggle to meet financial means to keep their household afloat.</div>
     </div>
    </div>
 </div>
 
 
 <div class="container">
-  <div class="family-card">
     <img src="imgs/Family B.png" alt="Family B" class="image">
     <div class="overlay">
       <div class="text">Father is on life-sustaining treatment and on government assistance due to inability to work; more than 75% of his income goes to rent. 
@@ -19,16 +17,13 @@
       residual income to provide Christmas gifts for his daughter or supply himself with sufficient winter clothing.</div>
     </div>
    </div>
-</div>
 
 
 <div class="container">
-  <div class="family-card">
     <img src="imgs/Family C.png" alt="Family C" class="image">
     <div class="overlay">
       <div class="text">Single mother supporting her 5 children, all under the ages of 14. Abusive father was removed from the home.</div>
     </div>
-  </div>
 </div>
 
 
