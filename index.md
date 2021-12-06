@@ -8,8 +8,6 @@ Gifts must be dropped off by **Friday, December 17th, 2021** in order for them t
 
 When you're ready, complete our google form by clicking [here](https://forms.gle/Dno15Jz4uVionoqx7) to let us know who you will be supporting this season. We're excited and humbled to be a part of Kelowna's loving community - thank you!
   
-Unfortunately, as Warm Hearts is a small non-profit, we are unable to provide tax receipts.
-  
 **Would you like to host a fundraiser instead? [Let us know!](mailto:warmheartskelowna@gmail.com)**
 
 
