@@ -1,5 +1,5 @@
  <h4> In addition to supporting 22 women residing at Kelowna Women's Shelter and the Pediatrics Ward at Kelowna General Hospital (KGH), we are also offering support to 6 families in the local community referred to us by KGH and social workers. </h4>
- 
+ <h5> Hover over the family name to read more about their situation, click on their wishlist to zoom-in. Thank you! </h5>
  <div class="row">
     <div class="column">
      <div class="container">
@@ -12,7 +12,7 @@
    </div>
  </div>
  
-     <div class="column">
+   <div class="column">
      <div class="container">
       <a href="imgs/Family A Wishes.png">
        <img src="imgs/Family A Wishes.png" alt="Family A Wishes" class="image">
@@ -34,7 +34,7 @@
   <div class="column">
      <div class="container">
       <a href="imgs/Family B Wishes.png">
-       <img src="imgs/Family B Wishes.png" alt="Family B Wishes" class="image">
+       <img src="imgs/Family B Dad Wishes.png" alt="Family B Wishes" class="image">
       </a>
       </div>
    </div>
@@ -68,6 +68,14 @@
        </div>
      </div>
   </div>
+ 
+    <div class="column">
+     <div class="container">
+      <a href="imgs/Family D Wishes.png">
+       <img src="imgs/Family D Wishes.png" alt="Family D Wishes" class="image">
+      </a>
+      </div>
+   </div>
  </div>
 
 <div class="row">
@@ -78,7 +86,15 @@
        <div class="text">Family home has burned down, the family is starting over. They've relocated to Kelowna to deliver their premature baby.</div>
      </div>
    </div>
- </div>      
+ </div> 
+ 
+    <div class="column">
+     <div class="container">
+      <a href="imgs/Family E Wishes.png">
+       <img src="imgs/Family E Wishes.png" alt="Family E Wishes" class="image">
+      </a>
+      </div>
+   </div>
  </div>
  
 <div class="row">
@@ -90,6 +106,12 @@
         to access the food bank, which does not provide the appropriate food for the diet that she requires.</div>
        </div>
      </div>
-
    </div> 
+   <div class="column">
+     <div class="container">
+      <a href="imgs/Family F Wishes.png">
+       <img src="imgs/Family F Wishes.png" alt="Family F Wishes" class="image">
+      </a>
+      </div>
+   </div>
 </div>
